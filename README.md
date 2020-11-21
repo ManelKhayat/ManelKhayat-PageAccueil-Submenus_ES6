@@ -1,9 +1,7 @@
 # Submenus
 > La réalisation d'une page d'accueil avec les submenus est une continuation de pratique sur la technologie ES6 pour améliorer mes compétences et travailler sur plus de parties de cet langage.
 
-![Exemple de page](./images/homee.png)
-![Exemple de page](./images/responsive.JPG)
-![Exemple de page](./images/responsivee.JPG)
+![Exemple de page](./images/accueil.JPG)
 
 ## Table des matiéres
 * [Demo](#demo)
