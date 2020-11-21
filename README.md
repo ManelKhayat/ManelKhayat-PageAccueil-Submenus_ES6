@@ -15,7 +15,7 @@
 * [Licence](#Licence)
 
 ## Demo
-Cliquez sur ce lien [Submenus](https://github.com/ManelKhayat/PageAccueil-Submenus_ES6) pour voir une démonstration de mon travail.
+Cliquez sur ce lien [Submenus](https://manelkhayat.github.io/PageAccueil-Submenus_ES6/) pour voir une démonstration de mon travail.
 
 ## Technologies
 * HTML5 
