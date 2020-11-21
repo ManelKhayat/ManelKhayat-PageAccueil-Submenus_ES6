@@ -53,11 +53,18 @@
     max-width: 100%;
     height: auto;
     background: url(./images/home.png)no-repeat center center fixed;
-    overflow:hidden;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    -ms-overflow-style:none;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
+  ::-webkit-scrollbar-button {
+    display: none;
   }
   ul {
     list-style-type: none;
