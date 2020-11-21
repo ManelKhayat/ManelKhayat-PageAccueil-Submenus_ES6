@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
+    <link rel="stylesheet" href="./css.css">
+    <script
+      src="./all.js"
+      data-auto-a11y="true"
+    ></script>
+    <link rel="stylesheet" href="./homeStyle.css" />
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="nav">
+      <div class="nav-center">
+        <div class="nav-header">
+          <img src="./images/logo.png" class="nav-logo" alt="logo" />
+          <button class="btn toggle-btn" style="margin-left: 35rem;">
+            <i class="fas fa-bars"></i>
+          </button>
+        </div>
+        <ul class="nav-links">
+          <li>
+            <button class="link-btn" >Accueil</button>
+          </li>
+          <li>
+            <button class="link-btn">Mode</button>
+          </li>
+          <li>
+            <button class="link-btn">Sport</button>
+          </li>
+        </ul>
+        <ul style="display: flex;margin-left: 30rem;">
+          <li>
+            <button class="btn signin-btn"><i class="fas fa-shopping-cart"></i></button>&nbsp;
+          </li>
+          <li>
+            <button class="btn signin-btn"><i class="fas fa-sign-in-alt"></i></button>
+          </li>
+        </ul>
+      
+      </div>
+    </nav>
+    <section class="page">
+      <div class="page-center">
+        <article class="page-info">
+          <h1 class="acheter">
+            Acheter en ligne <br />
+          </h1>
+          <p>
+            Sur vos postes de travail comme dans vos maisons, dans les transports 
+            et dans l’ensemble de vos lieux de vie, profitez 
+            de nos innombrables services disponibles 24h sur 24.
+            <br>
+            <button class="btn rejoindre">Rejoignez nous!</button>
+          </p>
+        </article>
+      </div>
+    </section>
+    <div class="sidebar-wrapper">
+      <aside class="sidebar">
+        <button class="close-btn">
+          <i class="fas fa-times"></i>
+        </button>
+        <div class="sidebar-links"></div>
+      </aside>
+    </div>
+    <aside class="submenu"></aside>
+    <script type="module" src="./myMain.js"></script>
+  </body>
+</html>
