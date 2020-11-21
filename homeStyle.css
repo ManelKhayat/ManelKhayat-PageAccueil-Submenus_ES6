@@ -52,12 +52,12 @@
     font-size: 0.875rem;       
     max-width: 100%;
     height: auto;
-    background: url(./images/home.png);
+    background: url(./images/home.png)no-repeat center center fixed;
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-repeat: no-repeat;
-    z-index: -1;
-    background-position: center center;
-    margin-right: 2rem;
   }
   ul {
     list-style-type: none;
