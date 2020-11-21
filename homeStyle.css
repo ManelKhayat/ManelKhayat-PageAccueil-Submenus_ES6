@@ -191,7 +191,7 @@
   .page-info p {
     max-width: 35em;
     line-height: 1.8;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
   }
   @media screen and (min-width: 800px) {
     .nav-center {
@@ -214,6 +214,7 @@
       height: 100%;
       display: grid;
       align-items: center;
+      margin-top: 2rem;
     }
     .nav-links li {
       height: 100%;
