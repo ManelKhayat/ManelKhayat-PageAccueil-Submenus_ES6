@@ -83,7 +83,6 @@
   }
   h1 {
     font-size: 2.75rem;
-    
   }
   h2 {
     font-size: 2rem;
@@ -95,7 +94,7 @@
     font-size: 0.875rem;
   }
   p {
-   
+    margin-right: 18rem;
     margin-bottom: 1.25rem;
     color: var(--clr-white);
   }
@@ -195,17 +194,12 @@
   .page-info h1 {
     text-transform: none;
     max-width: 500px;
-    text-align: center;
     
-    display:inline; padding-left:2.5em; padding-right:10em;
   }
   .page-info p {
-    max-width: 35rem;
+    max-width: 35em;
     line-height: 1.8;
-    margin-bottom: 0rem;
-    padding: 0.5em;
-    text-align: center;
-    margin-left: 18.5rem;
+    margin-bottom: 0.5rem;
   }
   @media screen and (min-width: 800px) {
     .nav-center {
@@ -241,7 +235,7 @@
       color: white;
       text-transform: capitalize;
       letter-spacing: 1px;
-      width: 5.8rem;
+      width: 5.5rem;
       font-size: x-large;
       margin-left: 3.5rem;
       
