@@ -83,7 +83,6 @@
   }
   h1 {
     font-size: 2.75rem;
-    
   }
   h2 {
     font-size: 2rem;
@@ -95,10 +94,9 @@
     font-size: 0.875rem;
   }
   p {
-    margin-right: 28rem;
+    margin-right: 18rem;
     margin-bottom: 1.25rem;
     color: var(--clr-white);
-    display:inline; padding-left:0.5em; padding-right:0em;
   }
   @media screen and (min-width: 800px) {
     h1 {
@@ -197,7 +195,6 @@
     text-transform: none;
     max-width: 500px;
     
-    
   }
   .page-info p {
     max-width: 35em;
@@ -225,7 +222,7 @@
       height: 100%;
       display: grid;
       align-items: center;
-      margin-top: 1rem;
+      margin-top: 2rem;
     }
     .nav-links li {
       height: 100%;
@@ -238,9 +235,7 @@
       color: white;
       text-transform: capitalize;
       letter-spacing: 1px;
-      width: 5.5rem;
-      font-size: x-large;
-      margin-left: 3.5rem;
+      width: 10rem;
       
     }
   }
