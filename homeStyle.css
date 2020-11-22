@@ -96,7 +96,7 @@
   p {
     margin-right: 18rem;
     margin-bottom: 1.25rem;
-    color: var(--clr-grey-8);
+    color: var(--clr-white);
   }
   @media screen and (min-width: 800px) {
     h1 {
